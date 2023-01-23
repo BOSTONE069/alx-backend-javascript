@@ -1,3 +1,7 @@
+/**
+ * I prefer const when I can.
+ * @returns The string 'I prefer const when I can.'
+ */
 export function taskFirst() {
   const task = 'I prefer const when I can.';
   return task;
