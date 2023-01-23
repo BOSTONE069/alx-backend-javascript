@@ -1,3 +1,8 @@
+/**
+ * If trueOrFalse is true, then return [true, false], otherwise return [false, true].
+ * @param trueOrFalse - a boolean value
+ * @returns [false, true]
+ */
 export default function taskBlock(trueOrFalse) {
   const task = false;
   const task2 = true;
